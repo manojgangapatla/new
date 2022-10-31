@@ -1,0 +1,25 @@
+body{
+    font-family: sans-serif;
+    
+      }
+  h1{
+    text-align: center;
+    color: #ff7200;
+    margin: 30px 0 50px;
+  }
+  .gallery{
+    margin: 10px 50px;
+    position: absolute;
+transition: .5s ease;
+border: 5px;
+   
+  }
+  .gallery img{
+    width: 461px;
+    height:290px;
+    padding: 1px;
+            transition: 1s;
+  }
+  .gallery img:hover{
+            transform: scale(1.2);
+  }

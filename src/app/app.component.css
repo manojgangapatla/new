@@ -1,0 +1,32 @@
+a{
+    color: white;
+    border-radius: 10px 0 10px 0;
+    font-size: 20px;
+    position: relative;
+    left:50%;
+    background: #ff7200;
+    margin: 20px;
+    padding: 10px;
+    text-decoration: none;
+}
+h1{
+    font-size: 70px;
+    color: black;
+    position: absolute;
+    top: 25%;
+    left: 12%;
+}
+h3{
+    color: black;
+    font-size: 40px;
+    position: absolute;
+    top: 40%;
+    left: 35%;
+}
+.logo{
+    position: relative;
+    top: 30px;
+    left: 50px;
+    width: 120px;
+    cursor: pointer;
+}
